@@ -1,1 +1,1 @@
-# PPI-predictor-Protein-complex-detector
+# PPI-predictor&Protein-complex-detector
